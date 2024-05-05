@@ -1,0 +1,1 @@
+Each file has its imports, preprocessing operations and supervised machine learning approach implementation based on each file name. Comments, insights and more are included. The Decision Tree graph itself was huge so this notebook was uploaded compressed.
